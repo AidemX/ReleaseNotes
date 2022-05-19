@@ -1,7 +1,7 @@
 
 ------
 
-__v0.1.0 @ 2020-??-??__
+__v1.0 @ 2022-06__
 
   - The first released version on App Store.
 
