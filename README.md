@@ -1,6 +1,12 @@
 
 ------
 
+__v1.1.2 @ 2022-06-09__
+  
+  - Assets Module: Provide "Shared File" & "Browse in Finder" groups for "Source Type".
+  
+---
+
 __v1.0.8 @ 2022-06-01__
   
   - Support adding memos to video;
