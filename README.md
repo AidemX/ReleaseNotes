@@ -1,6 +1,10 @@
 
 ------
 
+__v1.1.3 @ 2023-02-01__
+  
+  - BUGFIX: Updating media will lead to a crash under the "Full Screen" view layout mode.
+
 __v1.1.2 @ 2022-06-09__
   
   - Assets Module: Provide "Shared File" & "Browse in Finder" groups for "Source Type".
