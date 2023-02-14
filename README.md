@@ -1,6 +1,10 @@
 
 ------
 
+__v1.1.5 @ 2023-02-14__
+  
+  - Premium View: Refrain from retrieving unavailable products.
+
 __v1.1.3 @ 2023-02-01__
   
   - BUGFIX: Updating media will lead to a crash under the "Full Screen" view layout mode.
