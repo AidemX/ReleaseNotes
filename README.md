@@ -1,6 +1,11 @@
 
 ------
 
+__v1.1.7 @ 2023-02-17__
+  
+  - Keep asset local cached path unsynced;
+  - Update asset filename edit view.
+
 __v1.1.5 @ 2023-02-14__
   
   - Premium View: Refrain from retrieving unavailable products.
