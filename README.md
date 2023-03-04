@@ -1,6 +1,10 @@
 
 ------
 
+__v1.1.8 @ 2023-03-04__
+  
+  - Change auto-capitalization type from words to sentences.
+
 __v1.1.7 @ 2023-02-17__
   
   - Keep asset local cached path unsynced;
