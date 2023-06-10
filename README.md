@@ -1,6 +1,13 @@
 
 ------
 
+__v1.2.1 @ 2023-06-09__
+  
+  - Improves the list paging (Mac Version);
+  - Improves the title editing for the quick memo creation component (Mac Version).
+  
+---
+
 __v1.1.8 @ 2023-03-04__
   
   - Change auto-capitalization type from words to sentences.
