@@ -1,6 +1,12 @@
 
 ------
 
+__v1.3.0 @ 2023-07-13__
+  
+  - Provides a dismiss button above the keyboard during searching (iPhone version).
+  
+---
+
 __v1.2.1 @ 2023-06-09__
   
   - Improves the list paging (Mac Version);
