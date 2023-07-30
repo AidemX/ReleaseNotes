@@ -1,6 +1,14 @@
 
 ------
 
+__v2.0.2 @ 2023-07-29__
+  
+  - Improves the overall framework of the program;
+  - BUGFIX: Incorrect timestamp display for memos after 1 hr.
+  
+---
+---
+
 __v1.3.0 @ 2023-07-13__
   
   - Provides a dismiss button above the keyboard during searching (iPhone version).
