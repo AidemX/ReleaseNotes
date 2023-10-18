@@ -1,6 +1,13 @@
 
 ------
 
+__v2.1.2 @ 2023-10-18__
+  
+  - Media Detail View: Supports for adjusting media player height by dragging the segmented control;
+  - Provides preferences for the media detail view layout.
+  
+---
+
 __v2.0.2 @ 2023-07-29__
   
   - Improves the overall framework of the program;
