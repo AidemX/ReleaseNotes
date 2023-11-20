@@ -1,6 +1,12 @@
 
 ------
 
+__v2.2.3 @ 2023-11-18__
+  
+  - Provides "Sync Asset File" for asset to sync file directly via Bluetooth.
+  
+---
+
 __v2.1.2 @ 2023-10-18__
   
   - Media Detail View: Supports for adjusting media player height by dragging the segmented control;
