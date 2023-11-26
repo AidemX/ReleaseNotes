@@ -1,6 +1,13 @@
 
 ------
 
+__v2.3.0 @ 2023-11-25__
+  
+  - Renames module "Data Transfer" to "Nearby Center";
+  - Improves data transfer progress on the "Advanced Sharing" page.
+  
+---
+
 __v2.2.3 @ 2023-11-18__
   
   - Provides "Sync Asset File" for asset to sync file directly via Bluetooth.
