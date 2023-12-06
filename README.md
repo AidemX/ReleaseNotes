@@ -1,6 +1,12 @@
 
 ------
 
+__v2.4.0 @ 2023-12-05__
+  
+  - Updates the About page in Settings.
+  
+---
+
 __v2.3.0 @ 2023-11-25__
   
   - Renames module "Data Transfer" to "Nearby Center";
