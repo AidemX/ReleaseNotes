@@ -1,6 +1,12 @@
 
 ------
 
+__v2.5.1 @ 2023-12-18__
+  
+  - Improves media package import.
+  
+---
+
 __v2.4.0 @ 2023-12-05__
   
   - Updates the About page in Settings.
