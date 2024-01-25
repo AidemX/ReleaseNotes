@@ -1,6 +1,12 @@
 
 ------
 
+__v2.6.1 @ 2024-01-24__
+  
+  - Provides "Save to Photo Library" option for sharing.
+  
+---
+
 __v2.5.1 @ 2023-12-18__
   
   - Improves media package import.
