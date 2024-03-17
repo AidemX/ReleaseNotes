@@ -1,6 +1,12 @@
 
 ------
 
+__v2.7.3 @ 2024-03-16__
+  
+  - Refactor the media details module under iOS 16.0+.
+  
+---
+
 __v2.6.1 @ 2024-01-24__
   
   - Provides "Save to Photo Library" option for sharing.
