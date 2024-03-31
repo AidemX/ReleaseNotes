@@ -1,6 +1,10 @@
 
 ------
 
+__v2.7.6 @ 2024-03-27__
+  
+  - Media Details View: Keep content until view completely disappears (iPhone version).
+
 __v2.7.3 @ 2024-03-16__
   
   - Refactor the media details module under iOS 16.0+.
