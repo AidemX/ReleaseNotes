@@ -1,6 +1,13 @@
 
 ------
 
+__v2.8.1 @ 2024-05-09__
+  
+  - Media Details View: Improves some interactions of memo creation and editing;
+  - Settings - About View: Add the app registration number info.
+  
+---
+
 __v2.7.6 @ 2024-03-27__
   
   - Media Details View: Keep content until view completely disappears (iPhone version).
