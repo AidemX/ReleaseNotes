@@ -1,6 +1,10 @@
 
 ------
 
+__v2.8.3 @ 2024-05-15__
+  
+  - Settings - About View: Update localized links.
+
 __v2.8.1 @ 2024-05-09__
   
   - Media Details View: Improves some interactions of memo creation and editing;
