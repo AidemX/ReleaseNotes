@@ -1,6 +1,13 @@
 
 ------
 
+__v2.9.1 @ 2024-06-18__
+  
+  - Support audio files;
+  - Media List View: Fixed issues to locate media or memo from other pages.
+  
+---
+
 __v2.8.3 @ 2024-05-15__
   
   - Settings - About View: Update localized links.
