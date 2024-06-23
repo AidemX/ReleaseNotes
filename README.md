@@ -1,6 +1,13 @@
 
 ------
 
+__v2.10.1 @ 2024-06-23__
+  
+  - Provides share extension to save video/audio files from other apps;
+  - Provides "Open in Aidem" extension to open video/audio files from other apps (iOS only).
+  
+---
+
 __v2.9.1 @ 2024-06-18__
   
   - Support audio files;
