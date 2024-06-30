@@ -1,6 +1,10 @@
 
 ------
 
+__v2.10.2 @ 2024-06-29__
+  
+  - Preserve the muted state of media playback.
+
 __v2.10.1 @ 2024-06-23__
   
   - Provides share extension to save video/audio files from other apps;
