@@ -1,6 +1,13 @@
 
 ------
 
+__v2.11.0 @ 2024-07-05__
+  
+  - When the media is playing, preserve the playing state after switching to the earlier memos;
+  - Memo Timestamp Edit Control: Provide "Reset" option (the original "Discard Changes" will end editing).
+  
+---
+
 __v2.10.2 @ 2024-06-29__
   
   - Preserve the muted state of media playback.
