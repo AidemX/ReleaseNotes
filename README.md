@@ -1,6 +1,10 @@
 
 ------
 
+__v2.11.1 @ 2024-07-06__
+  
+  - Media Details Page: Add fullscreen button on the media player.
+
 __v2.11.0 @ 2024-07-05__
   
   - When the media is playing, preserve the playing state after switching to the earlier memos;
