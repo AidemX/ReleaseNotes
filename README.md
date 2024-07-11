@@ -1,6 +1,12 @@
 
 ------
 
+__v2.12.4 @ 2024-07-10__
+  
+  - Media Details Page: Optionally display thumbnails in the memos list.
+  
+---
+
 __v2.11.1 @ 2024-07-06__
   
   - Media Details Page: Add fullscreen button on the media player.
