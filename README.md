@@ -1,6 +1,12 @@
 
 ------
 
+__v2.13.2 @ 2024-07-24__
+  
+  - Supports custom thumbnails by setting poster frames for media and memos.
+  
+---
+
 __v2.12.4 @ 2024-07-10__
   
   - Media Details Page: Optionally display thumbnails in the memos list.
