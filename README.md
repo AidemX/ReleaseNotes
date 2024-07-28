@@ -1,6 +1,13 @@
 
 ------
 
+__v2.14.2 @ 2024-07-28__
+  
+  - Assets Library: Update asset item custom sorting logic;
+  - Update some special characters in external shared file titles.
+  
+---
+
 __v2.13.2 @ 2024-07-24__
   
   - Supports custom thumbnails by setting poster frames for media and memos.
