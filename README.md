@@ -1,6 +1,12 @@
 
 ------
 
+__v2.15.0 @ 2024-07-31__
+  
+  - Supports resizing the media list width in the split view layout (iPad & Mac versions).
+  
+---
+
 __v2.14.2 @ 2024-07-28__
   
   - Assets Library: Update asset item custom sorting logic;
