@@ -1,6 +1,13 @@
 
 ------
 
+__v2.15.2 @ 2024-08-02__
+  
+  - Updates some interactions in Media Details Page (Mac version):  
+      - Provides key commands up/down arrows to select the previous/next memo;
+      - Provides key commands cmd + left/right arrows to play the start/end timestamp (use memo’s timestamp if there’s one selected) ;
+      - Removed the swipe action of the memo list cell.
+
 __v2.15.0 @ 2024-07-31__
   
   - Supports resizing the media list width in the split view layout (iPad & Mac versions).
