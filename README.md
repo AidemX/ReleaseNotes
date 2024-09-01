@@ -1,6 +1,14 @@
 
 ------
 
+__v2.16.4 @ 2024-08-31__
+  
+  - Bookmark List: Support double column display mode (iPad & Mac versions);
+  - Tag List: Support triple column display mode (iPad & Mac versions);
+  - Updated the memo detail view that presented from Bookmark, Tag Lists.
+  
+---
+
 __v2.15.2 @ 2024-08-02__
   
   - Updates some interactions in Media Details Page (Mac version):  
