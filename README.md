@@ -1,6 +1,10 @@
 
 ------
 
+__v2.16.5 @ 2024-09-01__
+  
+  - Stop playback when pop to the Bookmark/Tag List (iPhone version).
+
 __v2.16.4 @ 2024-08-31__
   
   - Bookmark List: Support double column display mode (iPad & Mac versions);
