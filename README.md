@@ -1,6 +1,12 @@
 
 ------
 
+__v2.17.0 @ 2024-09-03__
+  
+  - Bookmarked List, Tagged Item List: Support searching.
+  
+---
+
 __v2.16.5 @ 2024-09-01__
   
   - Stop playback when pop to the Bookmark/Tag List (iPhone version).
