@@ -1,6 +1,12 @@
 
 ------
 
+__v2.18.0 @ 2024-09-09__
+  
+  - Memo List Module: Apply the new memo detail view.
+  
+---
+
 __v2.17.0 @ 2024-09-03__
   
   - Bookmarked List, Tagged Item List: Support searching.
