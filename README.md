@@ -1,6 +1,12 @@
 
 ------
 
+__v2.19.1 @ 2024-09-17__
+  
+  - Memo List Module: Support double column display mode (iPad & Mac versions).
+  
+---
+
 __v2.18.0 @ 2024-09-09__
   
   - Memo List Module: Apply the new memo detail view.
