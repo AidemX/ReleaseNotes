@@ -1,6 +1,12 @@
 
 ------
 
+__v2.20.1 @ 2024-09-21__
+  
+  - Provides "Sort by Timestamp" option in the media's memo list edit view.
+  
+---
+
 __v2.19.1 @ 2024-09-17__
   
   - Memo List Module: Support double column display mode (iPad & Mac versions).
