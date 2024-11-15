@@ -1,6 +1,12 @@
 
 ------
 
+__v2.21.1 @ 2024-11-15__
+  
+  - Update media list module.
+  
+---
+
 __v2.20.1 @ 2024-09-21__
   
   - Provides "Sort by Timestamp" option in the media's memo list edit view.
