@@ -1,6 +1,14 @@
 
 ------
 
+__v2.22.1 @ 2024-11-24__
+  
+  - Updated project and tag list modules;  
+  - Provides "Move to Top, Middle, Bottom" cell menu options when sorting a list;
+  - Settings - Local Data: Calculate size recursively.
+  
+---
+
 __v2.21.1 @ 2024-11-15__
   
   - Update media list module.
