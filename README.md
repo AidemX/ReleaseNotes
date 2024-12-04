@@ -1,6 +1,12 @@
 
 ------
 
+__v2.23.2 @ 2024-12-03__
+  
+  - Supports for adding iCloud stored media from the Photo Library.
+  
+---
+
 __v2.22.1 @ 2024-11-24__
   
   - Updated project and tag list modules;  
