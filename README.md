@@ -1,6 +1,10 @@
 
 ------
 
+__v2.23.3 @ 2024-12-05__
+  
+  - Fixed localization issues in advanced sharing views.
+
 __v2.23.2 @ 2024-12-03__
   
   - Supports for adding iCloud stored media from the Photo Library.
