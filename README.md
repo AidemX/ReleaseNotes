@@ -1,6 +1,12 @@
 
 ------
 
+__v2.24.0 @ 2024-12-12__
+  
+  - Media List Module: Support for moving multi-selection items.
+  
+---
+
 __v2.23.3 @ 2024-12-05__
   
   - Fixed localization issues in advanced sharing views.
