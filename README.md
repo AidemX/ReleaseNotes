@@ -1,6 +1,12 @@
 
 ------
 
+__v2.25.0 @ 2024-12-15__
+  
+  - Media Detail Module: Support double-tap or long-press gestures to edit directly on the relevant fields in the Overview tab.
+  
+---
+
 __v2.24.0 @ 2024-12-12__
   
   - Media List Module: Support for moving multi-selection items.
