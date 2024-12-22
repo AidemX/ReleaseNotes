@@ -1,6 +1,12 @@
 
 ------
 
+__v2.26.1 @ 2024-12-21__
+  
+  - Asset Detail Module: Provide "Delete from the Photos app" option in the Original Source section.
+  
+---
+
 __v2.25.0 @ 2024-12-15__
   
   - Media Detail Module: Support double-tap or long-press gestures to edit directly on the relevant fields in the Overview tab.
