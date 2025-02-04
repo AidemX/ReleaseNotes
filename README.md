@@ -1,6 +1,12 @@
 
 ------
 
+__v2.27.8 @ 2025-02-03__
+  
+  - Supports for syncing asset files via iCloud Drive (Premium).
+  
+---
+
 __v2.26.1 @ 2024-12-21__
   
   - Asset Detail Module: Provide "Delete from the Photos app" option in the Original Source section.
