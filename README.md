@@ -1,6 +1,13 @@
 
 ------
 
+__v2.28.3 @ 2025-02-14__
+  
+  - Asset Detail Module: Provides automatic local source file matching;
+  - Media Player: Provides asset file diagnosis when errors occur.
+  
+---
+
 __v2.27.8 @ 2025-02-03__
   
   - Supports for syncing asset files via iCloud Drive (Premium).
