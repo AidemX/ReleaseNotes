@@ -1,6 +1,13 @@
 
 ------
 
+__v2.29.0 @ 2025-02-18__
+  
+  - Introduce a playback speed control gesture (move vertically with two fingers);
+  - Media Detail Module: Disable playback key commands during overview title editing (Mac version).
+  
+---
+
 __v2.28.3 @ 2025-02-14__
   
   - Asset Detail Module: Provides automatic local source file matching;
