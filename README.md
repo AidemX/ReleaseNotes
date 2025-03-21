@@ -1,6 +1,12 @@
 
 ------
 
+__v2.30.1 @ 2025-03-21__
+  
+  - Asset Library: Support batch operations related to file storage.
+  
+---
+
 __v2.29.0 @ 2025-02-18__
   
   - Introduce a playback speed control gesture (move vertically with two fingers);
