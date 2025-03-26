@@ -1,6 +1,12 @@
 
 ------
 
+__v2.31.0 @ 2025-03-26__
+  
+  - Asset Library: Provides a file trash to store recently deleted files.
+  
+---
+
 __v2.30.1 @ 2025-03-21__
   
   - Asset Library: Support batch operations related to file storage.
