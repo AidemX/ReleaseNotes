@@ -1,6 +1,12 @@
 
 ------
 
+__v2.32.0 @ 2025-03-30__
+  
+  - Media List Module: Support updating tags for multiple items.
+  
+---
+
 __v2.31.0 @ 2025-03-26__
   
   - Asset Library: Provides a file trash to store recently deleted files.
