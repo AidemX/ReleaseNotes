@@ -1,6 +1,13 @@
 
 ------
 
+__v3.0.0 @ 2025-04-04__
+  
+  - Changed minimum supported version from iOS 15.5 to iOS 16.
+  
+---
+---
+
 __v2.32.0 @ 2025-03-30__
   
   - Media List Module: Support updating tags for multiple items.
