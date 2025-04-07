@@ -1,6 +1,13 @@
 
 ------
 
+__v3.1.0 @ 2025-04-07__
+  
+  - Introduces Photo Library picker that supports filtering added files;
+  - Tag Edit View: Provide custom color picker.
+  
+---
+
 __v3.0.0 @ 2025-04-04__
   
   - Changed minimum supported version from iOS 15.5 to iOS 16.
