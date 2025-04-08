@@ -1,6 +1,10 @@
 
 ------
 
+__v3.1.1 @ 2025-04-08__
+  
+  - Tag Selection View: Fixed tag color indicator.
+
 __v3.1.0 @ 2025-04-07__
   
   - Introduces Photo Library picker that supports filtering added files;
