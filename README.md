@@ -1,6 +1,12 @@
 
 ------
 
+__v3.2.0 @ 2025-04-13__
+  
+  - Updated the Media Library picker (iOS version).
+  
+---
+
 __v3.1.1 @ 2025-04-08__
   
   - Tag Selection View: Fixed tag color indicator.
