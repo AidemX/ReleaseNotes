@@ -1,6 +1,10 @@
 
 ------
 
+__v3.2.1 @ 2025-04-15__
+  
+  - Media Detail View: Adjust the player's full-screen display mode (iOS version).
+
 __v3.2.0 @ 2025-04-13__
   
   - Updated the Media Library picker (iOS version).
