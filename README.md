@@ -1,6 +1,12 @@
 
 ------
 
+__v3.3.3 @ 2025-04-17__
+  
+  - Asset Detail View: Support editing poster frame.
+  
+---
+
 __v3.2.1 @ 2025-04-15__
   
   - Media Detail View: Adjust the player's full-screen display mode (iOS version).
