@@ -1,6 +1,12 @@
 
 ------
 
+__v3.4.0 @ 2025-04-20__
+  
+  - Settings - Local Data - Files: Support file sharing.
+  
+---
+
 __v3.3.3 @ 2025-04-17__
   
   - Asset Detail View: Support editing poster frame.
