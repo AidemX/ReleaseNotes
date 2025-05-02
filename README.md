@@ -1,6 +1,12 @@
 
 ------
 
+__v3.5.0 @ 2025-05-02__
+  
+  - Media List View: Support grid cell layout.
+  
+---
+
 __v3.4.0 @ 2025-04-20__
   
   - Settings - Local Data - Files: Support file sharing.
