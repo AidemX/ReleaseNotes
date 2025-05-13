@@ -1,6 +1,12 @@
 
 ------
 
+__v3.6.0 @ 2025-05-12__
+  
+  - Media List View: Optimize thumbnail resolution in grid cell layout.
+  
+---
+
 __v3.5.0 @ 2025-05-02__
   
   - Media List View: Support grid cell layout.
