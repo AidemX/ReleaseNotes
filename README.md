@@ -1,6 +1,12 @@
 
 ------
 
+__v3.7.0 @ 2025-05-17__
+  
+  - Optimized media list data loading.
+  
+---
+
 __v3.6.0 @ 2025-05-12__
   
   - Media List View: Optimize thumbnail resolution in grid cell layout.
