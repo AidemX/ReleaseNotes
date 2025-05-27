@@ -1,6 +1,12 @@
 
 ------
 
+__v3.8.0 @ 2025-05-26__
+  
+  - Grid Layout Views: Support adjusting columns via options and pinch gesture.
+  
+---
+
 __v3.7.0 @ 2025-05-17__
   
   - Optimized media list data loading.
