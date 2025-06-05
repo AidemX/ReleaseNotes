@@ -1,6 +1,12 @@
 
 ------
 
+__v3.10.0 @ 2025-06-04__
+  
+  - Share the poster frame between media and asset items.
+  
+---
+
 __v3.9.0 @ 2025-05-30__
   
   - Optimized the pickers related to the device libraries.
