@@ -1,6 +1,12 @@
 
 ------
 
+__v3.11.0 @ 2025-06-12__
+  
+  - Asset Import View: Provide "Create Media Record" option.
+  
+---
+
 __v3.10.0 @ 2025-06-04__
   
   - Share the poster frame between media and asset items.
