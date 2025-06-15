@@ -1,6 +1,13 @@
 
 ------
 
+__v3.12.0 @ 2025-06-15__
+  
+  - Share Extension: Provide "Duplicate File Process" and "Create Media Record" options;
+  - Fixed conflict between playback toggle command and asset alias editing via external keyboard (iOS version).
+  
+---
+
 __v3.11.0 @ 2025-06-12__
   
   - Asset Import View: Provide "Create Media Record" option.
