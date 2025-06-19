@@ -1,6 +1,13 @@
 
 ------
 
+__v3.13.0 @ 2025-06-19__
+  
+  - Media List View: Provide option to select file or folder from the Files app (iOS version);
+  - Media List View: Allow folder selection when browsing in Finder (Mac version).
+  
+---
+
 __v3.12.0 @ 2025-06-15__
   
   - Share Extension: Provide "Duplicate File Process" and "Create Media Record" options;
