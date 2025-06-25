@@ -1,6 +1,13 @@
 
 ------
 
+__v3.14.0 @ 2025-06-25__
+  
+  - Playlist / Media Deletion: Provide option to delete the asset file simultaneously;
+  - Photo Library Picker: Follow the selection order when creating multiple media records.
+  
+---
+
 __v3.13.0 @ 2025-06-19__
   
   - Media List View: Provide option to select file or folder from the Files app (iOS version);
