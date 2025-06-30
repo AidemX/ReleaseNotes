@@ -1,6 +1,12 @@
 
 ------
 
+__v3.15.0 @ 2025-06-29__
+  
+  - Asset Detail View: Provide an entrance to list all associated media records.
+  
+---
+
 __v3.14.0 @ 2025-06-25__
   
   - Playlist / Media Deletion: Provide option to delete the asset file simultaneously;
