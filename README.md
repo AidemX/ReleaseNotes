@@ -1,6 +1,14 @@
 
 ------
 
+__v3.16.2 @ 2025-07-09__
+  
+  - Updated nearby received file process view;
+  - Provides options to process nearby received packages instead of automatically archiving them;
+  - Media Detail View: If the selected memo is in timestamp editing, gesture playback will auto stop in preview only.
+  
+---
+
 __v3.15.0 @ 2025-06-29__
   
   - Asset Detail View: Provide an entrance to list all associated media records.
