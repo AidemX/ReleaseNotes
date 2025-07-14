@@ -1,6 +1,13 @@
 
 ------
 
+__v3.17.0 @ 2025-07-14__
+  
+  - Media List View: Support sharing multi-selected items;
+  - Enable sound when device is in silent mode.
+  
+---
+
 __v3.16.2 @ 2025-07-09__
   
   - Updated nearby received file process view;
