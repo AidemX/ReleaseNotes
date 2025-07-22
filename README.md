@@ -1,6 +1,13 @@
 
 ------
 
+__v3.18.0 @ 2025-07-22__
+  
+  - Combined multiple selection count label and shortcut button;
+  - Updated welcome view and project edit view.
+  
+---
+
 __v3.17.0 @ 2025-07-14__
   
   - Media List View: Support sharing multi-selected items;
