@@ -1,6 +1,17 @@
 
 ------
 
+__v3.19.2 @ 2025-07-25__
+  
+  - Tag Creation View: Select the blank color by default;
+  - Media Detail View: Do not auto stop playback for one-frame memo;
+  - Media List View:
+  * Display total duration in playlist cells;
+  * Provide convenient sorting options when reordering;
+  * Provide file storage update options for multi-selected items.
+  
+---
+
 __v3.18.0 @ 2025-07-22__
   
   - Combined multiple selection count label and shortcut button;
