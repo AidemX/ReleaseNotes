@@ -1,6 +1,12 @@
 
 ------
 
+__v3.20.0 @ 2025-08-04__
+  
+  - Updated media detail view layout.
+  
+---
+
 __v3.19.2 @ 2025-07-25__
   
   - Tag Creation View: Select the blank color by default;
