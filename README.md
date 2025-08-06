@@ -1,6 +1,12 @@
 
 ------
 
+__v3.21.0 @ 2025-08-06__
+  
+  - Media Detail View: Provide option to mark as watched.
+  
+---
+
 __v3.20.0 @ 2025-08-04__
   
   - Updated media detail view layout.
