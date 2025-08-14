@@ -1,6 +1,12 @@
 
 ------
 
+__v3.22.0 @ 2025-08-14__
+  
+  - Media Detail View: Support saving a memo as a new media record.
+  
+---
+
 __v3.21.0 @ 2025-08-06__
   
   - Media Detail View: Provide option to mark as watched.
