@@ -1,6 +1,12 @@
 
 ------
 
+__v3.23.0 @ 2025-08-19__
+  
+  - Memo to Media Convert View: Save preferences for using next time.
+  
+---
+
 __v3.22.0 @ 2025-08-14__
   
   - Media Detail View: Support saving a memo as a new media record.
