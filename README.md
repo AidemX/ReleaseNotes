@@ -1,6 +1,12 @@
 
 ------
 
+__v3.24.1 @ 2025-08-21__
+  
+  - Supports making alias for media record.
+  
+---
+
 __v3.23.0 @ 2025-08-19__
   
   - Memo to Media Convert View: Save preferences for using next time.
