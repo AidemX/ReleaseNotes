@@ -1,6 +1,15 @@
 
 ------
 
+__v3.25.0 @ 2025-08-23__
+  
+  - Media List View: Updated style for the selected cell (iPad & Mac versions);
+  - Media Detail View: Present all created aliases if available;
+  - Updated some media alias related logic;
+  - Removed media UID and asset alias fields.
+  
+---
+
 __v3.24.1 @ 2025-08-21__
   
   - Supports making alias for media record.
