@@ -1,6 +1,14 @@
 
 ------
 
+__v3.26.0 @ 2025-08-27__
+  
+  - Provides type and note fields for playlist;
+  - Media List Cell Menu: Provide all share options;
+  - Media List View: Include media alias when calculating playlist duration.
+  
+---
+
 __v3.25.0 @ 2025-08-23__
   
   - Media List View: Updated style for the selected cell (iPad & Mac versions);
