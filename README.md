@@ -1,6 +1,13 @@
 
 ------
 
+__v3.27.0 @ 2025-08-28__
+  
+  - Rename the local cached file with the synced asset filename from another device;
+  - Playlist Edit View: Skip title validation for the divider type playlist.
+  
+---
+
 __v3.26.0 @ 2025-08-27__
   
   - Provides type and note fields for playlist;
