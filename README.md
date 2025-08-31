@@ -1,6 +1,12 @@
 
 ------
 
+__v3.28.0 @ 2025-08-31__
+  
+  - Updated memo editing and tag selection views.
+  
+---
+
 __v3.27.0 @ 2025-08-28__
   
   - Rename the local cached file with the synced asset filename from another device;
