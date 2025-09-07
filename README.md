@@ -1,6 +1,12 @@
 
 ------
 
+__v3.29.2 @ 2025-09-07__
+  
+  - Introduces Rated Tag (Premium).
+  
+---
+
 __v3.28.0 @ 2025-08-31__
   
   - Updated memo editing and tag selection views.
