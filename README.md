@@ -1,6 +1,13 @@
 
 ------
 
+__v3.30.0 @ 2025-09-10__
+  
+  - Adopt OS 26 (iOS, iPadOS, macOS);
+  - Unlock Premium Feature: Apperance mode switch (Settings - Appearance).
+  
+---
+
 __v3.29.2 @ 2025-09-07__
   
   - Introduces Rated Tag (Premium).
