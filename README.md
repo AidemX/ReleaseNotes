@@ -1,6 +1,14 @@
 
 ------
 
+__v3.31.1 @ 2025-09-15__
+  
+  - Optimized the media batch creation experience;
+  - Provides a level switching option in rated tag's context menu;
+  - BUGFIX: The media list search keyboard cannot be temporarily hidden in iPadOS 26.
+  
+---
+
 __v3.30.0 @ 2025-09-10__
   
   - Adopt OS 26 (iOS, iPadOS, macOS);
