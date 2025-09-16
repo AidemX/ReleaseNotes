@@ -1,6 +1,11 @@
 
 ------
 
+__v3.31.2 @ 2025-09-16__
+  
+  - Updated sharing logic for files referenced from the Media Library (iPhone & iPad versions);
+  - Media Detail View: Press the same segmented control to dismiss the content overlay on player.
+
 __v3.31.1 @ 2025-09-15__
   
   - Optimized the media batch creation experience;
