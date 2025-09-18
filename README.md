@@ -1,6 +1,14 @@
 
 ------
 
+__v3.32.0 @ 2025-09-18__
+  
+  - Memo Creation View: Adjusted layout of the title field during editing;
+  - Updated the poster frame edit view;
+  - Renamed "Locate" to "Show in Media List".
+  
+---
+
 __v3.31.2 @ 2025-09-16__
   
   - Updated sharing logic for files referenced from the Media Library (iPhone & iPad versions);
