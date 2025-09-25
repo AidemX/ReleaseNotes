@@ -1,6 +1,10 @@
 
 ------
 
+__v3.32.2 @ 2025-09-24__
+  
+  - Memo Creation View: Adjusted the height after adding notes.
+
 __v3.32.0 @ 2025-09-18__
   
   - Memo Creation View: Adjusted layout of the title field during editing;
