@@ -1,6 +1,13 @@
 
 ------
 
+__v3.33.0 @ 2025-09-29__
+  
+  - Media Detail View - Selected Memo Component: Provides option to select previous/next memo;
+  - Media List Cell: Provides a leading swipe action to toggle bookmark and watch status (iOS, iPadOS versions).
+  
+---
+
 __v3.32.2 @ 2025-09-24__
   
   - Memo Creation View: Adjusted the height after adding notes.
