@@ -1,6 +1,12 @@
 
 ------
 
+__v3.34.0 @ 2025-10-02__
+  
+  - Asset File Diagnosis View: Provide an option to select file manually.
+  
+---
+
 __v3.33.0 @ 2025-09-29__
   
   - Media Detail View - Selected Memo Component: Provides option to select previous/next memo;
