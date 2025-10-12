@@ -1,6 +1,12 @@
 
 ------
 
+__v3.35.0 @ 2025-10-12__
+  
+  - Media Player Error View: Provide Auto-Match option.
+  
+---
+
 __v3.34.0 @ 2025-10-02__
   
   - Asset File Diagnosis View: Provide an option to select file manually.
