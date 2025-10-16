@@ -1,6 +1,10 @@
 
 ------
 
+__v3.35.1 @ 2025-10-16__
+  
+  - Optimized menu responsiveness during video playback.
+
 __v3.35.0 @ 2025-10-12__
   
   - Media Player Error View: Provide Auto-Match option.
