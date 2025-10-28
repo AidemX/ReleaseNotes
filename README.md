@@ -1,6 +1,12 @@
 
 ------
 
+__v3.37.0 @ 2025-10-28__
+  
+  - Optimized Custom Share View.
+  
+---
+
 __v3.36.0 @ 2025-10-19__
   
   - Playback Speed Menu: Provides an option to lock the speed.
