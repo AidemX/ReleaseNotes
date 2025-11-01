@@ -1,6 +1,13 @@
 
 ------
 
+__v3.38.0 @ 2025-10-31__
+  
+  - Optimized media list indexing;
+  - When creating a new media record, use the filename without its file extension as the title.
+  
+---
+
 __v3.37.1 @ 2025-10-29__
   
   - Optimized iCloud File Downloading and Offloading.
