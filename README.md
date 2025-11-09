@@ -1,6 +1,12 @@
 
 ------
 
+__v3.39.0 @ 2025-11-09__
+  
+  - Updated Media Package Import View.
+  
+---
+
 __v3.38.0 @ 2025-10-31__
   
   - Optimized media list indexing;
