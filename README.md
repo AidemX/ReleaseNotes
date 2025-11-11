@@ -1,6 +1,12 @@
 
 ------
 
+__v3.40.0 @ 2025-11-11__
+  
+  - Settings View: Removed several legacy options.
+  
+---
+
 __v3.39.0 @ 2025-11-09__
   
   - Updated Media Package Import View.
