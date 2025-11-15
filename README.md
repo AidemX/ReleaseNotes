@@ -1,6 +1,12 @@
 
 ------
 
+__v3.41.0 @ 2025-11-15__
+  
+  - Package Import/Export: Added support for handling rated tags.
+  
+---
+
 __v3.40.0 @ 2025-11-11__
   
   - Settings View: Removed several legacy options.
