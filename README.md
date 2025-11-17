@@ -1,6 +1,13 @@
 
 ------
 
+__v3.42.1 @ 2025-11-17__
+  
+  - Tag Selection Page: Provides options for creating and editing tags;
+  - Custom Share View: Skip compression when creating a zip archive.
+  
+---
+
 __v3.41.0 @ 2025-11-15__
   
   - Package Import/Export: Added support for handling rated tags.
