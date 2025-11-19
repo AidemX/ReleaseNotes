@@ -1,6 +1,12 @@
 
 ------
 
+__v3.43.0 @ 2025-11-19__
+  
+  - Media Detail View: Supports adding related media.
+  
+---
+
 __v3.42.1 @ 2025-11-17__
   
   - Tag Selection Page: Provides options for creating and editing tags;
