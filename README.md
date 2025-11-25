@@ -1,6 +1,12 @@
 
 ------
 
+__v3.44.0 @ 2025-11-25__
+  
+  - Updated thumbnail-generation pipeline for files stored in iCloud Drive.
+  
+---
+
 __v3.43.0 @ 2025-11-19__
   
   - Media Detail View: Supports adding related media.
