@@ -1,6 +1,12 @@
 
 ------
 
+__v3.45.0 @ 2025-11-30__
+  
+  - Adjusted playback-speed gesture when playback rate is locked.
+  
+---
+
 __v3.44.0 @ 2025-11-25__
   
   - Updated thumbnail-generation pipeline for files stored in iCloud Drive.
