@@ -1,6 +1,12 @@
 
 ------
 
+__v3.46.0 @ 2025-12-07__
+  
+  - Media Detail View: Updated the Selected Memo Component.
+  
+---
+
 __v3.45.0 @ 2025-11-30__
   
   - Adjusted playback-speed gesture when playback rate is locked.
