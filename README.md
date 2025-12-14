@@ -1,6 +1,15 @@
 
 ------
 
+__v3.47.0 @ 2025-12-14__
+  
+  - Updated the Lock View;
+  - Updated Auto-Lock and Read-Only Mode settings views;
+  - Media Detail View: show duration and watched status in related media cells;
+  - Fine-tune some UI elements.
+  
+---
+
 __v3.46.0 @ 2025-12-07__
   
   - Media Detail View: Updated the Selected Memo Component.
