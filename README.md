@@ -1,6 +1,14 @@
 
 ------
 
+__v3.48.3 @ 2025-12-17__
+  
+  - Media Player: Supports Picture-in-Picture (PiP);
+  - Custom Share View: Corrects orientation of recorded videos when adding a watermark;
+  - Make media and memo notes searchable.
+  
+---
+
 __v3.47.0 @ 2025-12-14__
   
   - Updated the Lock View;
