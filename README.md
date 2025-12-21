@@ -1,6 +1,13 @@
 
 ------
 
+__v3.49.0 @ 2025-12-21__
+  
+  - Media Player: Supports extracting text from paused frames (Live Text).
+  * For iOS devices, requires A12 Bionic chip or later.
+  
+---
+
 __v3.48.3 @ 2025-12-17__
   
   - Media Player: Supports Picture-in-Picture (PiP);
