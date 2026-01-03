@@ -1,6 +1,12 @@
 
 ------
 
+__v3.50.1 @ 2026-01-03__
+  
+  - Updated media list search bar.
+  
+---
+
 __v3.49.0 @ 2025-12-21__
   
   - Media Player: Supports extracting text from paused frames (Live Text).
