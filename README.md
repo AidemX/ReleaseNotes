@@ -1,6 +1,12 @@
 
 ------
 
+__v3.51.0 @ 2026-01-07__
+  
+  - Media List Multi-Select: Add quick batch selection options.
+  
+---
+
 __v3.50.1 @ 2026-01-03__
   
   - Updated media list search bar.
