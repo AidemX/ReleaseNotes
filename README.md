@@ -1,6 +1,13 @@
 
 ------
 
+__v3.52.0 @ 2026-01-12__
+  
+  - Media List Search: Now supports qualifiers (title:, note:, tag:) for refined filtering.
+  - Quick Tip: Start your search with a colon (:) to trigger qualifier suggestions.
+  
+---
+
 __v3.51.0 @ 2026-01-07__
   
   - Media List Multi-Select: Add quick batch selection options.
