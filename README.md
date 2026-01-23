@@ -1,6 +1,13 @@
 
 ------
 
+__v3.53.0 @ 2026-01-23__
+  
+  - Improved search for tagged and bookmarked items.
+  - Updated the tag list split‑view for better readability (iPad & Mac versions).
+  
+---
+
 __v3.52.0 @ 2026-01-12__
   
   - Media List Search: Now supports qualifiers (title:, note:, tag:) for refined filtering.
