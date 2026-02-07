@@ -1,6 +1,13 @@
 
 ------
 
+__v3.54.1 @ 2026-02-07__
+  
+  - Optimized iCloud file sync.
+  - Updated playback-speed gesture: Long-press the right side of the player with one finger to temporarily increase playback speed; while holding, slide up or down to fine-tune the speed.
+  
+---
+
 __v3.53.0 @ 2026-01-23__
   
   - Improved search for tagged and bookmarked items.
