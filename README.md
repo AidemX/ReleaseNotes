@@ -1,6 +1,12 @@
 
 ------
 
+__v3.55.0 @ 2026-02-10__
+  
+  - Media List: Added "Locate Selected Media" option to the toolbar's More menu.
+  
+---
+
 __v3.54.1 @ 2026-02-07__
   
   - Optimized iCloud file sync.
