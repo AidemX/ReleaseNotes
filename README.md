@@ -1,6 +1,13 @@
 
 ------
 
+__v3.56.0 @ 2026-02-14__
+  
+  - Supports Resume Playback: You can now continue watching the last-played media from where you left off.
+  - Updated "Show in Media List" in Tagged and Bookmarked item lists.
+  
+---
+
 __v3.55.0 @ 2026-02-10__
   
   - Media List: Added "Locate Selected Media" option to the toolbar's More menu.
