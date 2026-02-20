@@ -1,6 +1,13 @@
 
 ------
 
+__v3.57.0 @ 2026-02-20__
+  
+  - Updated the toolbar layout in the media detail view.
+  - Fixed gesture conflicts between the playback-speed control and the volume slider.
+  
+---
+
 __v3.56.0 @ 2026-02-14__
   
   - Supports Resume Playback: You can now continue watching the last-played media from where you left off.
