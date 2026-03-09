@@ -1,6 +1,14 @@
 
 ------
 
+__v3.58.0 @ 2026-03-09__
+  
+  - Added per‑item Read‑Only Mode controls in Media Detail View (requires the Premium feature: Read-only Mode):
+  - Temporarily Editable: Temporarily disable Read‑Only Mode for the current view so you can make edits without changing the app‑wide setting.
+  - Lock to This Media: Lock the current media item in Read‑Only Mode and prevent switching to other media items until you unlock it.
+  
+---
+
 __v3.57.0 @ 2026-02-20__
   
   - Updated the toolbar layout in the media detail view.
