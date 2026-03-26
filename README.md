@@ -1,6 +1,15 @@
 
 ------
 
+__v3.59.1 @ 2026-03-27__
+  
+  - Media Detail View: Added pinch-to-zoom gesture support when displaying media in full screen.
+  - Mac Version Shortcuts:  
+    * i. Press Command (⌘) + =/- to zoom in or out, and Command (⌘) + 0 to reset.  
+    * ii. To move zoomed media, hold Command (⌘) and move horizontally with two fingers on the trackpad.
+  
+---
+
 __v3.58.0 @ 2026-03-09__
   
   - Added per‑item Read‑Only Mode controls in Media Detail View (requires the Premium feature: Read-only Mode):
