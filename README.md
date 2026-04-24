@@ -1,6 +1,16 @@
 
 ------
 
+__v4.0.0 @ 2026-04-24__
+  
+  - Refactored and improved database persistence and data sync.
+  - Data Sync History Detail View: Provides watermark and media relation infos.
+  - Media Detail View: Adjusted the memo search keyboard layout on iPad.
+  - BUGFIX - Media Detail View: Tap to hide overlay controls didn't work when resuming playback on iOS 17.
+  
+---
+---
+
 __v3.59.1 @ 2026-03-27__
   
   - Media Detail View: Added pinch-to-zoom gesture support when displaying media in full screen.
