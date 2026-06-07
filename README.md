@@ -1,6 +1,13 @@
 
 ------
 
+__v4.1.2 @ 2026-06-07__
+  
+  - Updated several settings views' navigation and layout.
+  - Changed the minimum supported iOS version from 16.0 to 16.5.
+  
+---
+
 __v4.0.0 @ 2026-04-24__
   
   - Refactored and improved database persistence and data sync.
