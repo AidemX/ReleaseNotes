@@ -1,6 +1,12 @@
 
 ------
 
+__v4.2.0 @ 2026-06-19__
+  
+  - Improved auto-lock responsiveness and reliability.
+  
+---
+
 __v4.1.2 @ 2026-06-07__
   
   - Updated several settings views' navigation and layout.
