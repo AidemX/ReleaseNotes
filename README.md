@@ -1,6 +1,12 @@
 
 ------
 
+__v4.3.0 @ 2026-07-05__
+  
+  - Improved slow-speed precision for the two-finger seeking gesture.
+  
+---
+
 __v4.2.0 @ 2026-06-19__
   
   - Improved auto-lock responsiveness and reliability.
