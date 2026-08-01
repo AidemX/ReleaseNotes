@@ -1,6 +1,12 @@
 
 ------
 
+__v4.4.0 @ 2026-08-01__
+  
+  - Added left-edge swipe gesture on primary lists to reveal sidebar menu (iPhone, iPad versions).
+  
+---
+
 __v4.3.0 @ 2026-07-05__
   
   - Improved slow-speed precision for the two-finger seeking gesture.
