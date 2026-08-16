@@ -1,6 +1,12 @@
 
 ------
 
+__v4.5.0 @ 2026-08-16__
+  
+  - Support web source references, including public YouTube and Bilibili videos.
+  
+---
+
 __v4.4.0 @ 2026-08-01__
   
   - Added left-edge swipe gesture on primary lists to reveal sidebar menu (iPhone, iPad versions).
