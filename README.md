@@ -1,6 +1,13 @@
 
 ------
 
+__v4.6.0 @ 2026-08-23__
+  
+  - Support using a custom image instead of a poster auto-generated from a frame.
+  - Updated watermark edit view related navigation (iPad version).
+  
+---
+
 __v4.5.0 @ 2026-08-16__
   
   - Support web source references, including public YouTube and Bilibili videos.
