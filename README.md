@@ -1,6 +1,12 @@
 
 ------
 
+__v4.7.0 @ 2026-08-31__
+  
+  - Support local audio file selection from the Media Library.
+  
+---
+
 __v4.6.0 @ 2026-08-23__
   
   - Support using a custom image instead of a poster auto-generated from a frame.
