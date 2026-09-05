@@ -1,6 +1,13 @@
 
 ------
 
+__v4.8.1 @ 2026-09-05__
+  
+  - Updated the media creation menu options.
+  - Fixed a media list navigation issue (iPhone version).
+  
+---
+
 __v4.7.0 @ 2026-08-31__
   
   - Support local audio file selection from the Media Library.
