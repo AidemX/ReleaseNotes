@@ -1,6 +1,12 @@
 
 ------
 
+__v4.9.0 @ 2026-09-10__
+  
+  - Improved gesture controls by disabling the long-press fast playback gesture when Live Text is active.
+  
+---
+
 __v4.8.1 @ 2026-09-05__
   
   - Updated the media creation menu options.
