@@ -1,6 +1,12 @@
 
 ------
 
+__v4.10.0 @ 2026-09-14__
+  
+  - Media Detail View: Added "Receive from Nearby" option to the top bar menu.
+  
+---
+
 __v4.9.0 @ 2026-09-10__
   
   - Improved gesture controls by disabling the long-press fast playback gesture when Live Text is active.
