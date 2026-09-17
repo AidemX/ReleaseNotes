@@ -1,6 +1,12 @@
 
 ------
 
+__v4.11.0 @ 2026-09-17__
+  
+  - Updated poster generation from poster frame.
+  
+---
+
 __v4.10.0 @ 2026-09-14__
   
   - Media Detail View: Added "Receive from Nearby" option to the top bar menu.
