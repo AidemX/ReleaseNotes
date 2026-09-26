@@ -1,6 +1,13 @@
 
 ------
 
+__v4.12.2 @ 2026-09-26__
+  
+  - Added Usage Guide in Settings > Help & Feedback > Tips.
+  - Adopted iOS 27.
+  
+---
+
 __v4.11.0 @ 2026-09-17__
   
   - Updated poster generation from poster frame.
