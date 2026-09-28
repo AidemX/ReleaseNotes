@@ -1,6 +1,12 @@
 
 ------
 
+__v4.13.0 @ 2026-09-28__
+  
+  - Optimized app launch speed.
+  
+---
+
 __v4.12.2 @ 2026-09-26__
   
   - Added Usage Guide in Settings > Help & Feedback > Tips.
