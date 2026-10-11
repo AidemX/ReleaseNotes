@@ -1,6 +1,12 @@
 
 ------
 
+__v4.15.0 @ 2026-10-11__
+  
+  - Updated pre-setup services at app launch.
+  
+---
+
 __v4.14.1 @ 2026-09-30__
   
   - Updated the preset playlist creation view.
