@@ -1,6 +1,13 @@
 
 ------
 
+__v4.16.1 @ 2026-10-27__
+  
+  - Updated the sidebar menu style.
+  - Fixed a search bar display issue on iOS 27.
+  
+---
+
 __v4.15.0 @ 2026-10-11__
   
   - Updated pre-setup services at app launch.
