@@ -1,6 +1,13 @@
 
 ------
 
+__v4.17.0 @ 2026-11-04__
+  
+  - Added support for iPhone Duo.
+  - Optimized layout adaptation for app resizing in multitasking mode (iPad version).
+  
+---
+
 __v4.16.1 @ 2026-10-27__
   
   - Updated the sidebar menu style.
