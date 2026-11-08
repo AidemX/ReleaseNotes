@@ -1,6 +1,12 @@
 
 ------
 
+__v4.18.0 @ 2026-11-08__
+  
+  - Improved compatibility between Timestamp Seek and Zoom gestures.
+  
+---
+
 __v4.17.0 @ 2026-11-04__
   
   - Added support for iPhone Duo.
